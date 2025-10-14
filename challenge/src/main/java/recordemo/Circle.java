@@ -1,4 +1,4 @@
-package recordemo;
+package main.java.recordemo;
 
 public record Circle(double radius) {
 

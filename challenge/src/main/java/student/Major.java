@@ -1,4 +1,4 @@
-package student;
+package main.java.student;
 
 public class Major {
     private static int nextId = 1;
